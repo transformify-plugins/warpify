@@ -1,2 +1,4 @@
 # warpify
-Python image warping library
+Python image warping plugin
+
+#### **Development Status :: 1 - Planning**
